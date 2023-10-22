@@ -1,7 +1,3 @@
-# Attention
-```
-ANY MISUSE OF SCRIPTS/BINARIES OF THIS SOFTWARE WILL NOT BE THE RESPONSIBILITY OF THE AUTHOR OR OTHER COLLABORATOR. USE IT ON YOUR OWN MACHINE BITCH!!!
-```
 # Other
 ```
 system() passthru() exec() shell_exec() fopen() file_get_contents() readfile() fsockopen()
