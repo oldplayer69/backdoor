@@ -6,7 +6,7 @@ session_start();
 set_time_limit(0);
 error_reporting(0);
 date_default_timezone_set("Asia/Jakarta");
-$auth_pass = "01a2f4c84901fd62e8845107993bb5f7"; // goblok
+$auth_pass = "01a2f4c84901fd62e8845107993bb5f7"; // ngapaintolol
 if(get_magic_quotes_gpc()) { 	
 function VEstripslashes($array) { 		
 return is_array($array) ? array_map('VEstripslashes', $array) : stripslashes($array); 	} 	
