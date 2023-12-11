@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="amphtml" href="https://vhrmedia.com/seo-k/linkrel/a/">
     <link rel="canonical" href="#">
-    <meta name="google-site-verification" content="Aa8XzPQzu8MCkP86xWDfh_n1NWxPAzkwHeyB7gWYtkw" /><link rel="icon" type="image/png" href="//i.ibb.co/7gZNzmF/fav-hboslot188.png?crop=center&height=32&v=1701489460&width=32"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
+    <meta name="google-site-verification" content="6xWTTULQ4T6ZXipl8vP4jM0CxUltdAbXnj_g1ZkUSuo" /><link rel="icon" type="image/png" href="//i.ibb.co/7gZNzmF/fav-hboslot188.png?crop=center&height=32&v=1701489460&width=32"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin><title>
       Daftar Slot Online Deposit Bank Bri Terpercaya 24 Jam Online : SLOT BRI
  &ndash; My Store</title>
 
@@ -18,11 +18,11 @@
     
 
 <meta property="og:site_name" content="My Store">
-<meta property="og:url" content="https://kerjasama.polman-babel.ac.id/public/sltbri/">
+<meta property="og:url" content="https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/">
 <meta property="og:title" content="Daftar Slot Online Deposit Bank Bri Terpercaya 24 Jam Online : SLOT BRI">
 <meta property="og:type" content="product">
 <meta property="og:description" content="Slot Bri adalah salah satu situs slot online terpercaya yang mudah untuk di akses dengan layanan slot deposit bank bri 24 jam tanpa potongan terpercaya, dengan hadirnya agen resmi situs slot bri maka anda bisa menang dengan mudah setiap deposit."><meta property="og:image" content="https://i.ibb.co/mNL6q1M/bri-slot-online.jpg?v=1701492618">
-  <meta property="og:image:secure_url" content="https://i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618">
+  <meta property="og:image:secure_url" content="https://i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618">
   <meta property="og:image:width" content="600">
   <meta property="og:image:height" content="600"><meta property="og:price:amount" content="5.000,00">
   <meta property="og:price:currency" content="IDR"><meta name="twitter:card" content="summary_large_image">
@@ -33,7 +33,7 @@
     <script src="//robin.alterbridge.com/cdn/shop/t/2/assets/constants.js?v=58251544750838685771701489263" defer="defer"></script>
     <script src="//robin.alterbridge.com/cdn/shop/t/2/assets/pubsub.js?v=158357773527763999511701489263" defer="defer"></script>
     <script src="//robin.alterbridge.com/cdn/shop/t/2/assets/global.js?v=113367515774722599301701489263" defer="defer"></script><script src="//robin.alterbridge.com/cdn/shop/t/2/assets/animations.js?v=88693664871331136111701489261" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/67551297784/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://kerjasama.polman-babel.ac.id/public/sltbri/products/slot bri.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/products/slot bri.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script><script id="shopify-features" type="application/json">{"accessToken":"17aebf5ef38b439c15af6ad7b1c31ccb","betas":["rich-media-storefront-analytics"],"domain":"robin.alterbridge.com","predictiveSearch":true,"shopId":67551297784,"smart_payment_buttons_url":"https:\/\/robin.alterbridge.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/robin.alterbridge.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","optimusEnabled":true,"optimusHidden":false,"betterDynamicCheckoutRecommendationVariant":"control","shopPromisePDPV3Enabled":false}</script>
 <script>var Shopify = Shopify || {};
 Shopify.shop = "ec0dfd.myshopify.com";
@@ -517,7 +517,7 @@ Shopify.routes.root = "/";</script>
     </script>
   <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 67551297784,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 67551297784,storefrontBaseUrl: "https://kerjasama.polman-babel.ac.id/public/sltbri/",cdnBaseUrl: "https://kerjasama.polman-babel.ac.id/public/sltbri/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"44225749844216","image":{"src":"\/\/robin.alterbridge.com\/cdn\/shop\/files\/slot-gacor-bolavitaslot-2024.png?v=1701492618"},"price":{"amount":5000.0,"currencyCode":"IDR"},"product":{"id":"8211943129336","title":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","untranslatedTitle":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","url":"\/products\/slot bri","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"44225749844216","image":{"src":"\/\/robin.alterbridge.com\/cdn\/shop\/files\/slot-gacor-bolavitaslot-2024.png?v=1701492618"},"price":{"amount":5000.0,"currencyCode":"IDR"},"product":{"id":"8211943129336","title":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","untranslatedTitle":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","url":"\/products\/slot bri","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://kerjasama.polman-babel.ac.id/public/sltbri/cdn","browser","0.0.407","f25882c1w423ab3d2p8df04b18m261f6c04",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+<script id="web-pixels-manager-setup">(function e(e,n,a,t,o,r,i){var s=null!==e,l=("function"==typeof BigInt&&BigInt.toString().indexOf("[native code]")?"modern":"legacy").substring(0,1),c=t.substring(0,1);if(s){window.Shopify=window.Shopify||{};var d=window.Shopify;d.analytics=d.analytics||{};var u=d.analytics;u.replayQueue=[],u.publish=function(e,n,a){u.replayQueue.push([e,n,a])};try{self.performance.mark("wpm:start")}catch(e){}}var p,f,y,h,v,m,w,g,b,_=[a,"/wpm","/",c,r,l,".js"].join("");f=(p={src:_,async:!0,onload:function(){if(e){var a=window.webPixelsManager.init(e);null==n||n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],o=e[2];a.publishCustomEvent(n,t,o)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor}},onerror:function(){var n=(null==e?void 0:e.storefrontBaseUrl)?e.storefrontBaseUrl.replace(/\/$/,""):self.location.origin,a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),t=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:o||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(_," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,t))return!0}catch(e){}var r=new XMLHttpRequest;try{return r.open("POST",a,!0),r.setRequestHeader("Content-Type","text/plain"),r.send(t),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}}).src,y=p.async,h=void 0===y||y,v=p.onload,m=p.onerror,w=document.createElement("script"),g=document.head,b=document.body,w.async=h,w.src=f,v&&w.addEventListener("load",v),m&&w.addEventListener("error",m),g?g.appendChild(w):b?b.appendChild(w):console.error("Did not find a head or body element to append the script")})({shopId: 67551297784,storefrontBaseUrl: "https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/",cdnBaseUrl: "https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/cdn",surface: "storefront-renderer",enabledBetaFlags: ["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"APP"},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0570","apiClientId":"shopify-pixel","type":"CUSTOM"}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[{"id":"44225749844216","image":{"src":"\/\/robin.alterbridge.com\/cdn\/shop\/files\/slot-gacor-bolavitaslot-2024.png?v=1701492618"},"price":{"amount":5000.0,"currencyCode":"IDR"},"product":{"id":"8211943129336","title":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","untranslatedTitle":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","url":"\/products\/slot bri","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");webPixelsManagerAPI.publish("product_viewed", {"productVariant":{"id":"44225749844216","image":{"src":"\/\/robin.alterbridge.com\/cdn\/shop\/files\/slot-gacor-bolavitaslot-2024.png?v=1701492618"},"price":{"amount":5000.0,"currencyCode":"IDR"},"product":{"id":"8211943129336","title":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","untranslatedTitle":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","url":"\/products\/slot bri","vendor":"My Store","type":""},"sku":"","title":"Default Title","untranslatedTitle":"Default Title"}});},"https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/cdn","browser","0.0.407","f25882c1w423ab3d2p8df04b18m261f6c04",["web_pixels_async_pixel_refactor","web_pixels_manager_performance_improvement"]);</script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'IDR';
 var meta = {"product":{"id":8211943129336,"gid":"gid:\/\/shopify\/Product\/8211943129336","vendor":"My Store","type":"","variants":[{"id":44225749844216,"price":500000,"name":"My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya","public_title":null,"sku":""}]},"page":{"pageType":"product","resourceType":"product","resourceId":8211943129336}};
@@ -703,7 +703,7 @@ for (var attr in meta) {
   window.BOOMR.themeId = 138232824056;
   window.BOOMR.renderRegion = "gcp-us-central1";
   window.BOOMR.url =
-    "https://kerjasama.polman-babel.ac.id/public/sltbri/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+    "https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
   var where = document.currentScript || document.getElementsByTagName("script")[0];
   var parentNode = where.parentNode;
   var promoted = false;
@@ -1209,7 +1209,7 @@ Item added to your cart
       "",
       ""
     ],
-    "url": "https://kerjasama.polman-babel.ac.id/public/sltbri/"
+    "url": "https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/"
   }
 </script>
 </div>
@@ -1269,7 +1269,7 @@ Item added to your cart
   style="--ratio: 1.0; --preview-ratio: 1.0;"
 >
   <noscript><div class="product__media media">
-        <img src="//i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1946" alt="" srcset="//i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=246 246w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=493 493w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=600 600w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=713 713w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=823 823w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=990 990w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1100 1100w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1206 1206w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1346 1346w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1426 1426w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1646 1646w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+        <img src="//i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1946" alt="" srcset="//i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=246 246w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=493 493w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=600 600w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=713 713w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=823 823w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=990 990w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1100 1100w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1206 1206w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1346 1346w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1426 1426w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1646 1646w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1946 1946w" width="1946" height="1946" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
       </div></noscript>
 
   <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--17070971420920__main">
@@ -1303,7 +1303,7 @@ Item added to your cart
   </svg>
 </div>
 <div class="product__media media media--transparent">
-      <img src="//i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1946" alt="" srcset="//i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=246 246w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=493 493w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=600 600w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=713 713w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=823 823w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=990 990w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1100 1100w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1206 1206w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1346 1346w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1426 1426w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1646 1646w, //i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
+      <img src="//i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1946" alt="" srcset="//i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=246 246w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=493 493w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=600 600w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=713 713w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=823 823w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=990 990w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1100 1100w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1206 1206w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1346 1346w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1426 1426w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1646 1646w, //i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&amp;width=1946 1946w" width="1946" height="1946" class="image-magnify-lightbox" sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
     </div>
     <button class="product__media-toggle quick-add-hidden product__media-zoom-lightbox" type="button" aria-haspopup="dialog" data-media-id="32371918766328">
       <span class="visually-hidden">
@@ -1580,7 +1580,7 @@ Item added to your cart
 
     <script src="//robin.alterbridge.com/cdn/shop/t/2/assets/pickup-availability.js?v=66138958121968076331701489263" defer="defer"></script></div>
 <div class="product__description rte quick-add-hidden" >
-  <a href="https://heylink.me/ibu4d-bandar-pasaran-togel-terlengkap-terpercaya/" target="_blank" rel="noopener"><img class="aligncenter wp-image-419 size-full" src="https://vhrmedia.com/seok-ganteng.png" alt="" width="300" height="90"></a>
+  <a href="https://heylink.me/ibu4d-bandar-pasaran-togel-terlengkap-terpercaya/" target="_blank" rel="noopener"><img class="aligncenter wp-image-419 size-full" src="https://res.cloudinary.com/bolavitaslot/image/upload/v1701501292/klik-disini-daftar-login_ui4ivr.gif" alt="" width="300" height="90"></a>
                     <p>Slot Bri merupakan agen resmi situs slot online peyedia rekening bri untuk memainkan slot deposit bri dan juga untuk memberikan kemudahan kepada semua orang pemilik rekening bri agar bisa main slot menggunakan rekening bri. Daftar slot bri sekarang juga atau anda juga bisa akses login slot bri disini agar anda bisa main slot online terpercaya via bri dengan mudah setiap harinya.</p>
                 </div>
               
@@ -1631,7 +1631,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--17070971420920__main"
-          value="https://kerjasama.polman-babel.ac.id/public/sltbri/"
+          value="https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/"
           placeholder="Link"
           onclick="this.select();"
           readonly
@@ -1726,9 +1726,9 @@ Item added to your cart
     >
 <img
     class="global-media-settings global-media-settings--no-shadow"
-    srcset="//i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&width=550 550w,//i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618 600w"
+    srcset="//i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&width=550 550w,//i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618 600w"
     sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-    src="//i.ibb.co/KbKnBzX/hboslot188.jpg?v=1701492618&width=1445"
+    src="//i.ibb.co/THmVMF6/bri-slot-online.jpg?v=1701492618&width=1445"
     alt="Daftar Slot Online Deposit Bank Bri Terpercaya 24 Jam Online : SLOT BRI"
     loading="lazy"
     width="1100"
@@ -1771,7 +1771,7 @@ Item added to your cart
       "@context": "http://schema.org/",
       "@type": "Product",
       "name": "My Store Daftar Link Slot Online My Store \u0026 Link Login Resmi Terpercaya",
-      "url": "https://kerjasama.polman-babel.ac.id/public/sltbri/",
+      "url": "https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/",
       "image": [
           "https:\/\/robin.alterbridge.com\/cdn\/shop\/files\/slot-gacor-bolavitaslot-2024.png?v=1701492618\u0026width=1920"
         ],
@@ -1878,7 +1878,7 @@ Item added to your cart
     </ul>
 
     <script>
-      window.shopUrl = 'https://kerjasama.polman-babel.ac.id/public/sltbri/';
+      window.shopUrl = 'https://psikologi.uin-malang.ac.id/wp-content/themes/bandar/';
       window.routes = {
         cart_add_url: '/cart/add',
         cart_change_url: '/cart/change',
